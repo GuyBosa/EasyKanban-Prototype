@@ -1,4 +1,5 @@
 # Easy Kanban
+![Screenshot 2023-04-24 164447](https://user-images.githubusercontent.com/40579537/234031888-ac0c7513-cd38-47e7-9b9b-391822aea3c2.png)
 
 
 ## Git
@@ -13,12 +14,6 @@ Make sure you have [Angular CLI] installed on your PC. See https://angular.io/cl
 ## Development server
 
 Run `npm install --legacy-peer-deps` followed by `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Note Below
-Due to peer-dependency issues with the local repo angular version and your workstation angular version,
-if node modules persist with exceptions and errors, download the repo here:
-https://drive.google.com/file/d/1T6ZMlRLohMOBCadKNoWkhLk574vwzZK3/view?usp=sharing
-
 
 ## Code scaffolding
 
